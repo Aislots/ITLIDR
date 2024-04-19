@@ -5,7 +5,7 @@ const extract = require('extract-json-from-string');
 const fetch = require("node-fetch");
 const cld = require('cld');
 
-const geminiKey = defineString("GEMINI_KEY");
+const geminiKey = defineString("AIzaSyBT6m5e3OzrMdTzOV09Qc3tDSFbFHSogKw");
 const userAgent =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36";
 
